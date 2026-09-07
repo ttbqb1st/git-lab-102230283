@@ -4,3 +4,6 @@
 - Họ tên: Trần Thanh Bình
 - MSSV: 102230283
 - Lớp: 23T_DT3
+## Mục tiêu
+Tìm hiểu Git và GitHub.
+
